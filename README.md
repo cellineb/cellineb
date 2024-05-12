@@ -14,11 +14,10 @@ Me chamo Celline, tenho 19 anos e sou estudante de Análise e Desenvolvimento de
 
 <br/>
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cellineb&langs_count=10&count_private=true&hide_border=true&theme=dracula&layout=compact"/>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cellineb&langs_count=8&theme=tokyonight&hide_border=true&)
   
 # Entre em contato
 <a href="https://www.linkedin.com/in/cellinebitencourt/" target="blank"><img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-808080?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<img src="https://custom-icon-badges.demolab.com/badge/cellinebitencourt@gmail.com-808080?style=for-the-badge&logo=mention&logoColor=white"> 
-	
+<a href="mailto:cellinebitencourt@gmail.com" target="blank"><img src="https://custom-icon-badges.demolab.com/badge/cellinebitencourt@gmail.com-808080?style=for-the-badge&logo=mention&logoColor=white"></a>
+
 
