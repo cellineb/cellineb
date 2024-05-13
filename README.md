@@ -15,6 +15,11 @@ Me chamo Celline, tenho 19 anos e sou estudante de Análise e Desenvolvimento de
 <br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cellineb&langs_count=8&theme=tokyonight&hide_border=true&)
+
+<p >
+<img width="35%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cellineb&theme=tokyonight&layout=compact&hide_border=true" alt="cellineb :: Top Langs by repo" />
+<img width="35%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cellineb&theme=tokyonight&layout=compact&hide_border=true" alt="cellineb :: Top Langs by commit" />
+</p>
   
 # Entre em contato
 <a href="https://www.linkedin.com/in/cellinebitencourt/" target="blank"><img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-808080?style=for-the-badge&logo=linkedin&logoColor=white"></a>
