@@ -1,6 +1,6 @@
 # Sobre mim
 
-Me chamo Celline, tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas, atualmente desenvolvendo minhas habilidades e à procura de uma primeira experiência profissional.
+Me chamo Celline, tenho 20 anos e sou estudante de Análise e Desenvolvimento de Sistemas, atualmente desenvolvendo minhas habilidades de programação e dados.
 
 # Conhecimentos
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
