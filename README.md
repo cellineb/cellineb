@@ -14,7 +14,7 @@ Me chamo Celline, tenho 19 anos e sou estudante de Análise e Desenvolvimento de
 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cellineb&langs_count=8&theme=tokyonight&hide_border=true&)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=celline&langs_count=8&theme=tokyonight&hide_border=true&)
 
 <p >
 <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cellineb&theme=tokyonight&layout=compact&hide_border=true" alt="cellineb :: Top Langs by repo" />
