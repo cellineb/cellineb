@@ -13,8 +13,8 @@ Me chamo Celline, tenho 20 anos e sou estudante de Análise e Desenvolvimento de
 <br/>
 
 <p >
-<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cellineb&theme=tokyonight&layout=compact&hide_border=true" alt="cellineb :: Top Langs by repo" />
-<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cellineb&theme=tokyonight&layout=compact&hide_border=true" alt="cellineb :: Top Langs by commit" />
+<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cellineb&theme=radical&layout=compact&hide_border=true" alt="cellineb :: Top Langs by repo" />
+<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cellineb&theme=radical&layout=compact&hide_border=true" alt="cellineb :: Top Langs by commit" />
 </p>
   
 # Entre em contato
