@@ -3,12 +3,13 @@
 Me chamo Celline, tenho 20 anos e sou estudante de Análise e Desenvolvimento de Sistemas, atualmente desenvolvendo minhas habilidades de programação e dados.
 
 # Conhecimentos
+
+[![My Skills](https://skillicons.dev/icons?i=css,html,java,js,mysql&theme=light)](https://skillicons.dev)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![VBA](https://img.shields.io/badge/-VBA-333333?style=flat&logo=VBA&logoColor=1572B6)
 ![Assembly](https://img.shields.io/badge/-Assembly-333333?style=flat&logo=Assembly&logoColor=1572B6)
 
-[![My Skills](https://skillicons.dev/icons?i=css,html,java,js,mysql&theme=light)](https://skillicons.dev)
 
 <br/>
 
