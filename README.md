@@ -75,13 +75,9 @@ Tenho 20 anos e sou estudante de Análise e Desenvolvimento de Sistemas, apaixon
 
 ## 🌐 Conecte-se Comigo
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/cellinebitencourt/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:cellinebitencourt@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+<div align="center"
+    <a href="https://www.linkedin.com/in/cellinebitencourt/" target="blank"><img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-808080?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:cellinebitencourt@gmail.com" target="blank"><img src="https://custom-icon-badges.demolab.com/badge/cellinebitencourt@gmail.com-808080?style=for-the-badge&logo=mention&logoColor=white"></a>
 </div>
 
 ---
@@ -91,9 +87,3 @@ Tenho 20 anos e sou estudante de Análise e Desenvolvimento de Sistemas, apaixon
   
   <p>⭐️ De <a href="https://github.com/cellineb">Celline</a></p>
 </div>
-
-## Entre em contato!
-<a href="https://www.linkedin.com/in/cellinebitencourt/" target="blank"><img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-808080?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:cellinebitencourt@gmail.com" target="blank"><img src="https://custom-icon-badges.demolab.com/badge/cellinebitencourt@gmail.com-808080?style=for-the-badge&logo=mention&logoColor=white"></a>
-
-
