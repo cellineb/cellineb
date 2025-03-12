@@ -45,15 +45,11 @@ Tenho 20 anos e sou estudante de Análise e Desenvolvimento de Sistemas, apaixon
 
 ## 📊 Estatísticas GitHub
 
-<div align="center">
-  <a href="https://github.com/cellineb">
-    <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=cellineb&theme=radical" alt="GitHub Streak" />
-  </a>
-</div>
 
 <div align="center">
-  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cellineb&theme=radical&layout=compact&hide_border=true" alt="Top Languages by Repo" />
-  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cellineb&theme=radical&layout=compact&hide_border=true" alt="Top Languages by Commit" />
+  <a href="https://github.com/cellineb">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cellineb&layout=compact&theme=radical" alt="Top Languages" />
+  </a>
 </div>
 
 ## 🚀 Projetos em Destaque
