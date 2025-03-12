@@ -2,11 +2,6 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=4B3BA4&center=true&vCenter=true&width=435&lines=Olá!+Me+chamo+Celline" alt="Typing SVG" />
   </a>
-  
-  <p>
-    <a href="https://github.com/cellineb/followers"><img src="https://img.shields.io/github/followers/cellineb?label=Followers&style=social" alt="GitHub Followers"></a>
-    <a href="https://github.com/cellineb?tab=repositories"><img src="https://img.shields.io/badge/Repositórios-GitHub-blue" alt="GitHub Repos"></a>
-  </p>
 </div>
 
 ## 👩‍💻 Sobre Mim
@@ -32,6 +27,7 @@ Tenho 20 anos e sou estudante de Análise e Desenvolvimento de Sistemas, apaixon
   ### Bancos de Dados
   
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
   
   ### Ferramentas e Ambientes
   
